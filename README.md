@@ -1,4 +1,7 @@
-## Hi there 👋
+
+## About Me
+
+- I'm Travis, and I'm currently learning all sorts of stuff every day.
 
 <!--
 **travisl-code/travisl-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
